@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="glider"
+   height="140"
+   width="140"
+   y="0"
+   x="0"
+   version="1.0">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">&gt;
+    </defs>
+  <g
+     id="scale"
+     transform="matrix(20,0,0,20,10,10)">
+    <g
+       id="grid"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round">
+      <!-- outside -->
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 0,0 6,0 6,6 0,6 Z"
+         id="path7" />
+      <!-- inside -->
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 0,2 6,2"
+         id="path9" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 0,4 6,4"
+         id="path11" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 2,0 2,6"
+         id="path13" />
+      <path
+         style="stroke:#000000;stroke-opacity:1"
+         d="M 4,0 4,6"
+         id="path15" />
+    </g>
+    <g
+       id="dots"
+       style="fill:#400040">
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         r="0.69999999"
+         cx="3"
+         cy="1"
+         id="C1" />
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         r="0.69999999"
+         cx="5"
+         cy="3"
+         id="ellipse19" />
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         r="0.69999999"
+         cx="1"
+         cy="5"
+         id="ellipse21" />
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         r="0.69999999"
+         cx="3"
+         cy="5"
+         id="ellipse23" />
+      <circle
+         style="fill:#000000;fill-opacity:1"
+         r="0.69999999"
+         cx="5"
+         cy="5"
+         id="ellipse25" />
+    </g>
+  </g>
+</svg>
