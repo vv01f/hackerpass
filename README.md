@@ -5,4 +5,9 @@ need to install [scribus](https://www.scribus.net/).
 
 ## Original Sources
 
-I got the original sources for the hacker passport from [/dev/tal](http://devtal.de/~nilsarne/Hackerspace_passport.zip), because the original source link in the Noisebridge wiki is br0ken.
+I got the original sources for the hacker passport from
+[/dev/tal](http://devtal.de/~nilsarne/Hackerspace_passport.zip),
+because the original source link in the Noisebridge wiki is br0ken.
+
+Alternatively you can download the original sources from
+[tvbgone](http://cornfieldelectronics.com/downloads/hackerpass/hackerpass.zip).
