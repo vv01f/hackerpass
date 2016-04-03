@@ -313,23 +313,53 @@
             <trail/>
             <PageItemAttributes/>
         </MASTEROBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="584.063984674329" YPOS="34" WIDTH="326.901379310345" HEIGHT="145.613984674329" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="13" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Bitstream Charter Bold Italic" ISIZE="8.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="326.902 0 326.902 0 326.902 145.613 326.902 145.613 326.902 145.613 326.902 145.613 0 145.613 0 145.613 0 145.613 0 145.613 0 0 0 0 0 0 0 0 326.902 0 326.902 0 " NUMCO="16" COCOOR="531.496 -40.4731 531.496 -40.4731 531.496 105.141 531.496 105.141 531.496 105.141 531.496 105.141 204.595 105.141 204.595 105.141 204.595 105.141 204.595 105.141 204.595 -40.4731 204.595 -40.4731 204.595 -40.4731 204.595 -40.4731 531.496 -40.4731 531.496 -40.4731 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Access to computers , and everything that shows how this world works, should be unlimited and total."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH=" • All information has to be free."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Mistrust authority – promote decentralization."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Hackers should be judged by their hacking , not by criteria as their look, age, race, gender or social status."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• You can create art and beauty on a computer."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Computers can change your life for the better."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Don't mess with private data of others."/>
-            <para ALIGN="1" LINESPMode="0" LINESP="13"/>
-            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="8.5" CH="• Utilize public but protect private data."/>
-            <trail ALIGN="1" LINESPMode="0" LINESP="13"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="585.063984674329" YPOS="34" WIDTH="326.901379310345" HEIGHT="145.613984674329" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="10" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7.5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Bitstream Charter Bold Italic" ISIZE="7" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="326.902 0 326.902 0 326.902 145.613 326.902 145.613 326.902 145.613 326.902 145.613 0 145.613 0 145.613 0 145.613 0 145.613 0 0 0 0 0 0 0 0 326.902 0 326.902 0 " NUMCO="16" COCOOR="531.496 -40.4731 531.496 -40.4731 531.496 105.141 531.496 105.141 531.496 105.141 531.496 105.141 204.595 105.141 204.595 105.141 204.595 105.141 204.595 105.141 204.595 -40.4731 204.595 -40.4731 204.595 -40.4731 204.595 -40.4731 531.496 -40.4731 531.496 -40.4731 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Access to computers , and everything that shows how this world works, should be unlimited and total."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH=" • All information has to be free."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Mistrust authority – promote decentralization."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Hackers should be judged by their hacking , not by criteria as their look, age, race, gender or social status."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• You can create art and beauty on a computer."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Computers can change your life for the better."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Don't mess with private data of others."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Utilize public but protect private data."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <para ALIGN="1" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="•"/>
+            <ITEXT FONTSIZE="7" CH=" L'accès aux ordinateurs, et tout ce qui pourrait vous apprendre quelque chose sur la façon dont le monde fonctionne, devrait être illimité et total. Toujours céder à la Hands-On Impératif."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• "/>
+            <ITEXT FONTSIZE="7" CH="Toutes les informations doivent être libres."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="•"/>
+            <ITEXT FONTSIZE="7" CH=" Ne fiez pas l'autorité, encouragez la décentralisation."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• "/>
+            <ITEXT FONTSIZE="7" CH="Les pirates devraient être jugés par leur hacking, pas de critères tels que les degrés, l'âge, la race, le sexe ou la position."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• "/>
+            <ITEXT FONTSIZE="7" CH="Vous pouvez créer de l'art et la beauté sur un ordinateur."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• "/>
+            <ITEXT FONTSIZE="7" CH="Les ordinateurs peuvent changer votre vie pour le mieux."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• "/>
+            <ITEXT FONTSIZE="7" CH="Ne jouez pas avec les données privées des autres."/>
+            <para ALIGN="1" LINESPMode="0" LINESP="7.5"/>
+            <ITEXT FONT="Bitstream Charter Bold Italic" FONTSIZE="7" CH="• Utiliser public, mais protéger les données privées."/>
+            <trail ALIGN="1" LINESPMode="0" LINESP="7.5"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="363.757672413793" YPOS="33.75" WIDTH="40.113675788793" HEIGHT="327" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Skupina20" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="1" groupsLastItem="3" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 40.1137 0 40.1137 0 40.1137 0 40.1137 0 40.1137 327 40.1137 327 40.1137 327 40.1137 327 0 327 0 327 0 327 0 327 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 40.1137 0 40.1137 0 40.1137 0 40.1137 0 40.1137 327 40.1137 327 40.1137 327 40.1137 327 0 327 0 327 0 327 0 327 0 0 0 0 " NUMGROUP="1" GROUPS="20 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
