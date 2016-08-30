@@ -11,7 +11,7 @@ All other hackerpasses I have seen take a very lose approach to design.
 I wanted a hackerpass which by design looks more like a real passport and does
 not feature any hackerspace logos prominently in its design and thus is neutral.
 
-Additionally, there is no nice looking hackerpass version in german.
+Additionally, there is no nice looking hackerpass version in German language.
 
 ### Original Sources
 
@@ -35,7 +35,7 @@ heran. Ich wollte ein Design, das tatsächlich einem Pass ähnlich sieht und der
 Innenteil nicht schon ohne Stempel voller Logos von hackerspaces ist und dadurch
 neutraler ist.
 
-Zusätzlich habe ich keine wirklich schöne deutsche Version des hackerpasses
+Zusätzlich habe ich keine wirklich schöne deutschsprachige Version des hackerpasses
 gefunden.
 
 ### Originalquellen
