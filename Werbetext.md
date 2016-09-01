@@ -1,11 +1,11 @@
 # Jeder Hacker sollte einen Haben. Einen Hackerpass.
 
-Bisher hatten reisende Hacker die wahl zwischen einem amerikanischen und
+Bisher hatten reisende Hacker die Wahl zwischen einem amerikanischen und
 einem chinesischem Modell.
 
 ## Wozu?
 
-Um darin Stempel aller Hackerspaces der Welt sammeln zu können.  
+Um darin Stempel aller Hackerspaces der Welt sammeln zu können.
 Um darin Notizen über die besuchten Hack\*Spaces zu machen und Signaturen zu
 sammeln.  
 Ganz offenbar um sich auf Reisen gegenüber der Community auszuweisen
@@ -31,10 +31,12 @@ bearbeitet werden, alle verwendeten Bilder und Fonts sind frei verwendbar.
 ## Was kostet das Ganze?
 
 Da mit dem Pass nicht unerhebliche Druckkosten (ca. 500€ für 100 Stück)
-zu stemmen sind, wird der Verkaufspreis sich wohl zwischen 6€ und 7€ bewegen.
+zu stemmen sind, wird der Verkaufspreis sich etwa zwischen 6€ und 7€ bewegen.
 Sollte allerdings die Nachfrage so groß werden, könnten im Kaufpreis auch
 Sticker der im Pass verwendeter Motive dazukommen.
 
 Für Besucher der Datenspuren 2016 kann das T-Shirt in der gewünschten Größe
-vorbestellt werden. Ab einer Vorbestellmenge von 100 gibt es 1 EUR Rabatt und
+vorbestellt werden.[^1] Ab einer Vorbestellmenge von 100 gibt es 1 EUR Rabatt und
 ab 150 einen Sticker gratis.
+
+[^1]: # "Zahlungseingang bis 3 Wochen vor der Veranstaltung und danach solange der Vorrat reicht"
