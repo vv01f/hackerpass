@@ -8,10 +8,10 @@ source files (\*.sla) you will need to install [scribus][scribus].
 ### Why another Hackerpass?
 
 All other hackerpasses I have seen take a very lose approach to design.
-I wanted a hackerpass which by design looks more like a real passport and does
-not feature any hackerspace logos prominently in its design and thus is neutral.
+I wanted a hackerpass which by design looks more like a real passport. Moreover, as it does
+not feature any hackerspace logos prominently in its design, it is neutral.
 
-Additionally, there is no nice looking hackerpass version in German language.
+Additionally, there is no nice looking hackerpass version in German language that I know of.
 
 ### Original Sources
 
